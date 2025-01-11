@@ -22,7 +22,7 @@ http://localhost/CMS/login.php
 
 admin login :
 Username: admin
-Password: admin
+Password: admin123
 or create new user 
 
 
